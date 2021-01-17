@@ -30,7 +30,9 @@ const PostHeader = ({ title, coverImage, date, author }: Props) => {
           )}
         </div>
         <div className="mb-6 text-lg">
-          <DateFormatter dateString={date} />
+          {false && (
+            <DateFormatter dateString={date} />
+          )}
         </div>
       </div>
     </>
