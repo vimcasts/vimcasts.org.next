@@ -1,6 +1,6 @@
 --- 
 :title: Using Vim's paste mode with the system paste command
-:date: 2013/11/15
+:date: 2013-11-15
 :poster: /images/posters/paste-option-toggle.png
 :flattr_id: ""
 :duration: 265

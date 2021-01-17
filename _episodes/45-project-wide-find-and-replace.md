@@ -1,6 +1,6 @@
 --- 
 :title: Project-wide find and replace
-:date: 2013/03/19
+:date: 2013-03-19
 :poster: /images/posters/project_substitute.png
 :flattr_id: "1189004"
 :duration: 385

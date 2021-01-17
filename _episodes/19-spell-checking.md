@@ -1,6 +1,6 @@
 --- 
 :title: Spell checking
-:date: 2010/05/10
+:date: 2010-05-10
 :poster: /images/posters/spell_checking.png
 :flattr_id: "31944"
 :duration: 342

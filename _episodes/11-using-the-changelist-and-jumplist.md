@@ -1,6 +1,6 @@
 --- 
 :title: Using the changelist and jumplist
-:date: 2010/03/23
+:date: 2010-03-23
 :poster: /images/posters/vimlists.png
 :flattr_id: "31933"
 :duration: 201

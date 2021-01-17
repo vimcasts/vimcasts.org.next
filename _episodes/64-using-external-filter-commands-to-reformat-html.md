@@ -1,6 +1,6 @@
 --- 
 :title: Using external filter commands to reformat HTML
-:date: 2014/02/18
+:date: 2014-02-18
 :poster: /images/posters/formatprg-pandoc.png
 :flattr_id: ""
 :duration: 271

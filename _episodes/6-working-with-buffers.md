@@ -1,6 +1,6 @@
 --- 
 :title: Working with buffers
-:date: 2010/02/14
+:date: 2010-02-14
 :poster: /images/posters/working_with_buffers.png
 :flattr_id: "31928"
 :duration: 208

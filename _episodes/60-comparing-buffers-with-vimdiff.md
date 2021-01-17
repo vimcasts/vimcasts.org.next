@@ -1,6 +1,6 @@
 --- 
 :title: Comparing buffers with vimdiff
-:date: 2014/01/15
+:date: 2014-01-15
 :poster: /images/posters/vimdiff-buffers.png
 :flattr_id: ""
 :duration: 256

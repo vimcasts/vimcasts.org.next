@@ -1,6 +1,6 @@
 --- 
 :title: Supercharged substitution with :Subvert
-:date: 2013/04/22
+:date: 2013-04-22
 :poster: /images/posters/abolish-substitute.png
 :flattr_id: "1274469"
 :duration: 429

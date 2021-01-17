@@ -1,6 +1,6 @@
 --- 
 :title: Converting HAML to ERB with Vim macros
-:date: 2010/07/08
+:date: 2010-07-08
 :poster: /images/posters/haml_to_erb.png
 :flattr_id: "33029"
 :duration: 456

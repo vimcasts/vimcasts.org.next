@@ -1,6 +1,6 @@
 --- 
 :title: Evaluating scripts with Vim's expression register
-:date: 2013/10/21
+:date: 2013-10-21
 :poster: /images/posters/expression-register-eval.png
 :flattr_id: ""
 :duration: 236

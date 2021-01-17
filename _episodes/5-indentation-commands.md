@@ -1,6 +1,6 @@
 --- 
 :title: Indentation commands
-:date: 2010/02/08
+:date: 2010-02-08
 :poster: /images/posters/indentation_commands.png
 :flattr_id: "31927"
 :duration: 341

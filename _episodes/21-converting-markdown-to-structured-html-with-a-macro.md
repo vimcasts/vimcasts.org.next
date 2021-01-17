@@ -1,6 +1,6 @@
 --- 
 :title: Converting markdown to structured HTML with a macro
-:date: 2010/06/02
+:date: 2010-06-02
 :poster: /images/posters/markdown_macro.png
 :flattr_id: "31946"
 :duration: 565

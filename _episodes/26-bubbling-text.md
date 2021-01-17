@@ -1,6 +1,6 @@
 --- 
 :title: Bubbling text
-:date: 2010/10/05
+:date: 2010-10-05
 :poster: /images/posters/bubbling_text.png
 :flattr_id: "69651"
 :duration: 383

@@ -1,6 +1,6 @@
 --- 
 :title: Undo branching and Gundo.vim
-:date: 2011/02/23
+:date: 2011-02-23
 :poster: /images/posters/undo_tree.png
 :flattr_id: "137468"
 :duration: 390

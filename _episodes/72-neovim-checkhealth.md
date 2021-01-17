@@ -1,6 +1,6 @@
 ---
 :title: CheckHealth in Neovim
-:date: 2017/10/31
+:date: 2017-10-31
 :poster: /images/posters/neovim-checkhealth.png
 :duration: 319
 :number: 72

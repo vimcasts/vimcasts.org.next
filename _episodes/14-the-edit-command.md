@@ -1,6 +1,6 @@
 --- 
 :title: The :edit command
-:date: 2010/04/05
+:date: 2010-04-05
 :poster: /images/posters/edit_command.png
 :flattr_id: "31938"
 :duration: 230

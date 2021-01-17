@@ -1,6 +1,6 @@
 --- 
 :title: The file explorer
-:date: 2010/04/12
+:date: 2010-04-12
 :poster: /images/posters/the_file_explorer.png
 :flattr_id: "31940"
 :duration: 336

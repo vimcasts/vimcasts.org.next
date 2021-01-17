@@ -1,6 +1,6 @@
 --- 
 :title: "Modal editing: undo, redo and repeat"
-:date: 2010/03/28
+:date: 2010-03-28
 :poster: /images/posters/modal_editing.png
 :flattr_id: "31936"
 :duration: 326

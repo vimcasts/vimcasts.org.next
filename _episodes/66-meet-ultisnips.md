@@ -1,6 +1,6 @@
 ---
 :title: Meet UltiSnips
-:date: 2014/05/21
+:date: 2014-05-21
 :poster: /images/posters/meet-ultisnips.png
 :duration: 343
 :number: 66

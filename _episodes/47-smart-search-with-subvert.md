@@ -1,6 +1,6 @@
 --- 
 :title: Smart search with :Subvert
-:date: 2013/04/12
+:date: 2013-04-12
 :poster: /images/posters/abolish-search.png
 :flattr_id: "1248431"
 :duration: 333

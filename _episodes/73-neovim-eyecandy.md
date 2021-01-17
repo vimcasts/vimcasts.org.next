@@ -1,6 +1,6 @@
 ---
 :title: Live substitution and yank highlighting
-:date: 2017/11/14
+:date: 2017-11-14
 :poster: /images/posters/neovim-eyecandy.png
 :duration: 348
 :number: 73

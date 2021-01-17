@@ -1,6 +1,6 @@
 ---
 :title: Meet Neovim
-:date: 2017/10/24
+:date: 2017-10-24
 :poster: /images/posters/meet-neovim.png
 :duration: 323
 :number: 71

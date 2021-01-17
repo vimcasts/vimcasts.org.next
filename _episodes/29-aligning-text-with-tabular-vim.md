@@ -1,6 +1,6 @@
 --- 
 :title: Aligning text with Tabular.vim
-:date: 2011/01/17
+:date: 2011-01-17
 :poster: /images/posters/alignment.png
 :flattr_id: "118292"
 :duration: 311

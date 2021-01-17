@@ -1,6 +1,6 @@
 --- 
 :title: Creating colorschemes for Vim
-:date: 2010/09/28
+:date: 2010-09-28
 :poster: /images/posters/colorschemes.png
 :flattr_id: "67028"
 :duration: 584

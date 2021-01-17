@@ -1,6 +1,6 @@
 --- 
 :title: An introduction to vspec
-:date: 2013/06/17
+:date: 2013-06-17
 :poster: /images/posters/vspec-intro.png
 :flattr_id: "1496691"
 :duration: 435

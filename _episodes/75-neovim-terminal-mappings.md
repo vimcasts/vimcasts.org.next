@@ -1,6 +1,6 @@
 ---
 :title: Creating mappings for :terminal
-:date: 2017/12/12
+:date: 2017-12-12
 :poster: /images/posters/neovim-terminal-mappings.png
 :duration: 308
 :number: 75

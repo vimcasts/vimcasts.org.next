@@ -1,6 +1,6 @@
 --- 
 :title: Simple calculations with Vim's expression register
-:date: 2013/10/16
+:date: 2013-10-16
 :poster: /images/posters/expression-register-maths.png
 :flattr_id: ""
 :duration: 242

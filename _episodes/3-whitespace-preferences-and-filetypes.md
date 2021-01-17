@@ -1,6 +1,6 @@
 --- 
 :title: Whitespace preferences and filetypes
-:date: 2010/01/17
+:date: 2010-01-17
 :poster: /images/posters/whitespace_preferences_and_filetypes.png
 :flattr_id: "31925"
 :duration: 209

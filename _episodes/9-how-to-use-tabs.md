@@ -1,6 +1,6 @@
 --- 
 :title: How to use tabs
-:date: 2010/03/08
+:date: 2010-03-08
 :poster: /images/posters/how_to_use_tabs.png
 :flattr_id: "31931"
 :duration: 328

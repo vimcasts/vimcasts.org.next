@@ -1,6 +1,6 @@
 ---
 :title: Using Python interpolation in UltiSnips snippets
-:date: 2014/05/29
+:date: 2014-05-29
 :poster: /images/posters/ultisnips-python.png
 :duration: 296
 :number: 67

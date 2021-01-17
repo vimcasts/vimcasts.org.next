@@ -1,6 +1,6 @@
 --- 
 :title: Creating the Vimcasts logo as ASCII art
-:date: 2010/03/14
+:date: 2010-03-14
 :poster: /images/posters/ascii.png
 :flattr_id: "31932"
 :duration: 347

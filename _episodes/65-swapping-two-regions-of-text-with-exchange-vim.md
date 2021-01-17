@@ -1,6 +1,6 @@
 --- 
 :title: Swapping two regions of text with exchange.vim
-:date: 2014/02/24
+:date: 2014-02-24
 :poster: /images/posters/exchange.png
 :flattr_id: ""
 :duration: 245

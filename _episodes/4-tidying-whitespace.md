@@ -1,6 +1,6 @@
 --- 
 :title: Tidying whitespace
-:date: 2010/01/24
+:date: 2010-01-24
 :poster: /images/posters/tidying_whitespace.png
 :flattr_id: "31926"
 :duration: 273

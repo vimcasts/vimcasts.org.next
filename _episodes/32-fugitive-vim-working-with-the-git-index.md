@@ -1,6 +1,6 @@
 --- 
 :title: Fugitive.vim - working with the git index
-:date: 2011/04/29
+:date: 2011-04-29
 :poster: /images/posters/fugitive_2.png
 :flattr_id: "177652"
 :duration: 701

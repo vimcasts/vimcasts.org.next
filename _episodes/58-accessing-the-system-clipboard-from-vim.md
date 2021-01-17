@@ -1,6 +1,6 @@
 --- 
 :title: Accessing the system clipboard from Vim
-:date: 2013/11/11
+:date: 2013-11-11
 :poster: /images/posters/clipboard-register.png
 :flattr_id: ""
 :duration: 288

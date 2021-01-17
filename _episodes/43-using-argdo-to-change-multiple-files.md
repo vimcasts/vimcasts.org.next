@@ -1,6 +1,6 @@
 --- 
 :title: Using :argdo to change multiple files
-:date: 2013/02/25
+:date: 2013-02-25
 :poster: /images/posters/argdo.png
 :flattr_id: "1150023"
 :duration: 340

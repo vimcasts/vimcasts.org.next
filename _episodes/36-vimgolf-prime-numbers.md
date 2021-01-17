@@ -1,6 +1,6 @@
 --- 
 :title: VimGolf - Prime Numbers
-:date: 2012/08/10
+:date: 2012-08-10
 :poster: /images/posters/primes.png
 :flattr_id: "829342"
 :duration: 413

@@ -1,6 +1,6 @@
 --- 
 :title: Pasting from Insert mode
-:date: 2013/10/11
+:date: 2013-10-11
 :poster: /images/posters/paste-from-insert.png
 :flattr_id: ""
 :duration: 255

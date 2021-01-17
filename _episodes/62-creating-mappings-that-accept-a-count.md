@@ -1,6 +1,6 @@
 --- 
 :title: Creating mappings that accept a count
-:date: 2014/02/06
+:date: 2014-02-06
 :poster: /images/posters/mappings-with-count.png
 :flattr_id: ""
 :duration: 242

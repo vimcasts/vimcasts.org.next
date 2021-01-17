@@ -1,6 +1,6 @@
 --- 
 :title: Show invisibles
-:date: 2010/01/04
+:date: 2010-01-04
 :poster: /images/posters/show_invisibles.png
 :flattr_id: "31755"
 :duration: 172

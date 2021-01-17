@@ -1,6 +1,6 @@
 ---
 :title: Neovim's terminal emulator
-:date: 2017/11/28
+:date: 2017-11-28
 :poster: /images/posters/neovim-terminal.png
 :duration: 365
 :number: 74

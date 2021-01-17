@@ -1,6 +1,6 @@
 --- 
 :title: How to fold
-:date: 2012/11/19
+:date: 2012-11-19
 :poster: /images/posters/how_to_fold.png
 :flattr_id: "1003463"
 :duration: 529

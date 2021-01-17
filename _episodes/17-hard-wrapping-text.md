@@ -1,6 +1,6 @@
 --- 
 :title: Hard wrapping text
-:date: 2010/04/26
+:date: 2010-04-26
 :poster: /images/posters/hard_wrapping_text.png
 :flattr_id: "31942"
 :duration: 323

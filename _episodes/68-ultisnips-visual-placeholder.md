@@ -1,6 +1,6 @@
 ---
 :title: Using selected text in UltiSnips snippets
-:date: 2014/07/23
+:date: 2014-07-23
 :poster: /images/posters/ultisnips-selections.png
 :duration: 313
 :number: 68

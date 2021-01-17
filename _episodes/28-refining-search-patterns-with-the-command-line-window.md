@@ -1,6 +1,6 @@
 --- 
 :title: Refining search patterns with the command-line window
-:date: 2010/11/21
+:date: 2010-11-21
 :poster: /images/posters/commandline_window.png
 :flattr_id: "86560"
 :duration: 471

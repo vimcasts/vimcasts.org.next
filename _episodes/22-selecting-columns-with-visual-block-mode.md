@@ -1,6 +1,6 @@
 --- 
 :title: Selecting columns with visual block mode
-:date: 2010/06/20
+:date: 2010-06-20
 :poster: /images/posters/visual_block.png
 :flattr_id: "31947"
 :duration: 261

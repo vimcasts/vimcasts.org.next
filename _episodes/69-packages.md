@@ -1,6 +1,6 @@
 ---
 :title: Installing plugins using packages
-:date: 2017/10/04
+:date: 2017-10-04
 :poster: /images/posters/packages.png
 :duration: 279
 :number: 69

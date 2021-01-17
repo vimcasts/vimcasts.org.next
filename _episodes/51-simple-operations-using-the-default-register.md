@@ -1,6 +1,6 @@
 --- 
 :title: Simple operations using the default register
-:date: 2013/09/27
+:date: 2013-09-27
 :poster: /images/posters/default-register.png
 :flattr_id: ""
 :duration: 247

@@ -1,6 +1,6 @@
 --- 
 :title: Soft wrapping text
-:date: 2010/04/20
+:date: 2010-04-20
 :poster: /images/posters/soft_wrapping_text.png
 :flattr_id: "31941"
 :duration: 294

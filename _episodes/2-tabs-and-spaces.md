@@ -1,6 +1,6 @@
 --- 
 :title: Tabs and Spaces
-:date: 2010/01/05
+:date: 2010-01-05
 :poster: /images/posters/tabs_and_spaces.png
 :flattr_id: "31923"
 :duration: 382

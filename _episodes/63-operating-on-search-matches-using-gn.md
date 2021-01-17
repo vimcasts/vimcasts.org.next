@@ -1,6 +1,6 @@
 --- 
 :title: Operating on search matches using gn
-:date: 2014/02/11
+:date: 2014-02-11
 :poster: http://vimcasts.org/images/posters/gn-command.png
 :flattr_id: ""
 :duration: 275

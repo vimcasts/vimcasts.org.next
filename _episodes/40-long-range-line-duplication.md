@@ -1,6 +1,6 @@
 --- 
 :title: Long-range line duplication
-:date: 2013/01/09
+:date: 2013-01-09
 :poster: /images/posters/line_duplication.png
 :flattr_id: "1095405"
 :duration: 391

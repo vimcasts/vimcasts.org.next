@@ -1,6 +1,6 @@
 --- 
 :title: Formatting text with par
-:date: 2010/05/03
+:date: 2010-05-03
 :poster: /images/posters/formatting_text_with_par.png
 :flattr_id: "31943"
 :duration: 312

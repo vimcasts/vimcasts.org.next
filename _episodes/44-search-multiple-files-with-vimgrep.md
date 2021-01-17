@@ -1,6 +1,6 @@
 --- 
 :title: Search multiple files with :vimgrep
-:date: 2013/03/01
+:date: 2013-03-01
 :poster: /images/posters/vimgrep.png
 :flattr_id: "1156445"
 :duration: 445

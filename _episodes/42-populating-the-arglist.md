@@ -1,6 +1,6 @@
 --- 
 :title: Populating the arglist
-:date: 2013/02/22
+:date: 2013-02-22
 :poster: /images/posters/arglist_populate.png
 :flattr_id: "1146839"
 :duration: 331

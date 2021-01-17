@@ -1,6 +1,6 @@
 --- 
 :title: Creating repeatable mappings with repeat.vim
-:date: 2014/01/21
+:date: 2014-01-21
 :poster: /images/posters/repeatable-mappings.png
 :flattr_id: ""
 :duration: 273

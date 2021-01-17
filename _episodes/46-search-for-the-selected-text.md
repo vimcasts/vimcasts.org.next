@@ -1,6 +1,6 @@
 --- 
 :title: Search for the selected text
-:date: 2013/03/25
+:date: 2013-03-25
 :poster: /images/posters/visual_star.png
 :flattr_id: "1204601"
 :duration: 279

@@ -1,6 +1,6 @@
 --- 
 :title: Enhanced abbreviations with :Abolish
-:date: 2013/04/29
+:date: 2013-04-29
 :poster: /images/posters/abolish-abbrev.png
 :flattr_id: "1303220"
 :duration: 189

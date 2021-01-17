@@ -1,6 +1,6 @@
 --- 
 :title: Cleaning up with Vim
-:date: 2010/04/01
+:date: 2010-04-01
 :poster: /images/posters/cleaning_up.png
 :flattr_id: "31937"
 :duration: 36

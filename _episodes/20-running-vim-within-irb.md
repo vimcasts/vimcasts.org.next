@@ -1,6 +1,6 @@
 --- 
 :title: Running Vim within IRB
-:date: 2010/05/16
+:date: 2010-05-16
 :poster: /images/posters/irb_and_vim.png
 :flattr_id: "31945"
 :duration: 275

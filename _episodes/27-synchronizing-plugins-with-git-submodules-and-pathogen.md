@@ -1,6 +1,6 @@
 --- 
 :title: Synchronizing plugins with git submodules and pathogen
-:date: 2010/10/12
+:date: 2010-10-12
 :poster: /images/posters/sync_with_git.png
 :flattr_id: "72257"
 :duration: 564

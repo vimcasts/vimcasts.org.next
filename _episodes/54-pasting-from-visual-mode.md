@@ -1,6 +1,6 @@
 --- 
 :title: Pasting from Visual mode
-:date: 2013/10/07
+:date: 2013-10-07
 :poster: /images/posters/paste-from-visual.png
 :flattr_id: ""
 :duration: 213

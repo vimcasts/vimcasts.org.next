@@ -1,6 +1,6 @@
 ---
 :title: Pasting into a terminal buffer
-:date: 2018/02/02
+:date: 2018-02-02
 :poster: /images/posters/neovim-terminal-paste.png
 :duration: 345
 :number: 76

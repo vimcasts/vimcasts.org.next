@@ -1,6 +1,6 @@
 --- 
 :title: Working with tabs
-:date: 2010/02/28
+:date: 2010-02-28
 :poster: /images/posters/working_with_tabs.png
 :flattr_id: "31930"
 :duration: 197

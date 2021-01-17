@@ -1,6 +1,6 @@
 --- 
 :title: Meet the arglist
-:date: 2013/02/19
+:date: 2013-02-19
 :poster: /images/posters/meet_arglist.png
 :flattr_id: "1143785"
 :duration: 297

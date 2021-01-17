@@ -1,6 +1,6 @@
 --- 
 :title: Updating your vimrc file on the fly
-:date: 2010/07/18
+:date: 2010-07-18
 :poster: /images/posters/vimrc_on_the_fly.png
 :flattr_id: "37935"
 :duration: 171

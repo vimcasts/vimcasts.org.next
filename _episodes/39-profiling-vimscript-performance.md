@@ -1,6 +1,6 @@
 --- 
 :title: Profiling Vimscript performance
-:date: 2012/12/03
+:date: 2012-12-03
 :poster: /images/posters/profiling.png
 :flattr_id: "1045993"
 :duration: 489

@@ -1,6 +1,6 @@
 --- 
 :title: Working with windows
-:date: 2010/02/21
+:date: 2010-02-21
 :poster: /images/posters/working_with_windows.png
 :flattr_id: "31929"
 :duration: 332
