@@ -1,6 +1,7 @@
 import Author from './author'
 
 type EpisodeType = {
+  _type: "episode"
   slug: string
   title: string
   date: string
@@ -10,8 +11,7 @@ type EpisodeType = {
   tags: string[]
   abstract: string
   content: string
-  author: Author
-
+  author?: Author
 }
 
 export default EpisodeType

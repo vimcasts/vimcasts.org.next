@@ -1,6 +1,7 @@
 import Author from './author'
 
 type PostType = {
+  _type: "post"
   slug: string
   title: string
   date: string
