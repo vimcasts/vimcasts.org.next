@@ -1,6 +1,7 @@
 import fs from 'fs'
 import { join } from 'path'
 import matter from 'gray-matter'
+import PostType, { GeneralPost } from '../types/post'
 
 const postsDirectory = join(process.cwd(), '_posts')
 const episodesDirectory = join(process.cwd(), '_episodes')
@@ -13,8 +14,11 @@ export function getEpisodeSlugs() {
   return fs.readdirSync(episodesDirectory)
 }
 
-export function getPostBySlug(slug: string, fields: string[] = []) {
-  return getItemBySlug(slug, fields, postsDirectory)
+export function getPostBySlug(slug: string, fields: string[] = []): PostType {
+  const data = getItemBySlug(slug, fields, postsDirectory)
+  return {
+    ...data, _type: "post"
+  }
 }
 
 export function getEpisodeBySlug(slug: string, fields: string[] = []) {
@@ -27,27 +31,8 @@ export function getItemBySlug(slug: string, fields: string[] = [], directory: st
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
 
-  type Items = {
-    [key: string]: string
-  }
-
-  const items: Items = {}
-
-  // Ensure only the minimal needed data is exposed
-  fields.forEach((field) => {
-    if (field === 'slug') {
-      items[field] = realSlug
-    }
-    if (field === 'content') {
-      items[field] = content
-    }
-
-    if (data[field]) {
-      items[field] = data[field]
-    }
-  })
-
-  return items
+  
+  return {...data, slug: realSlug, content: content,};
 }
 
 export function getAllPosts(fields: string[] = []) {

@@ -1,17 +1,20 @@
 import Author from './author'
 
-type PostType = {
-  _type: "post"
+export type GeneralPost = {
   slug: string
   title: string
   date: string
+  content: string
+}
+
+type PostType = GeneralPost & {
+  _type: "post"
   coverImage: string
   author: Author
   excerpt: string
   ogImage: {
     url: string
   }
-  content: string
 }
 
 export default PostType
